@@ -57,16 +57,16 @@ git clone --depth=1 https://github.com/zhaoolee/ins
 
 
 
-## 开源灵感库已收录1束灵感INS!(～￣▽￣)～更新时间(2023-12-14 16:53:33)
+## 开源灵感库已收录1束灵感INS!(～￣▽￣)～更新时间(2023-12-15 16:53:41)
 
-<table><tr><td width='400'><span>(づ｡◕‿‿◕｡)づ</span><br/><span>Name</span></td><td><span> (●ﾟωﾟ●)</span><br/><span>Description</span></td><td width='300'><span> ︿(￣︶￣)︿</span><br/><span>Tag</span></td></tr><tr><td><span><span style='font-weight: 600'>字魂网</span><span> 🟢 1271ms</span><br/></span><a href='https://izihun.com/'>izihun.com</a><br/><span>SSL证书到期时间:2024-08-30(剩260天到期)</span></td><td>字体下载_免费字体下载_商用字体设计定制--字魂网</td><td>字体;</td></tr></table>
+<table><tr><td width='400'><span>(づ｡◕‿‿◕｡)づ</span><br/><span>Name</span></td><td><span> (●ﾟωﾟ●)</span><br/><span>Description</span></td><td width='300'><span> ︿(￣︶￣)︿</span><br/><span>Tag</span></td></tr><tr><td><span><span style='font-weight: 600'>字魂网</span><span> 🟢 2678ms</span><br/></span><a href='https://izihun.com/'>izihun.com</a><br/><span>SSL证书到期时间:2024-08-30(剩259天到期)</span></td><td>字体下载_免费字体下载_商用字体设计定制--字魂网</td><td>字体;</td></tr></table>
 
 
 
 ## 字体
 
 <a href='#目录'>🔙目录</a>
-<table><tr><td width='400'><span>(づ｡◕‿‿◕｡)づ</span><br/><span>Name</span></td><td><span> (●ﾟωﾟ●)</span><br/><span>Description</span></td></tr><tr><td><span><span style='font-weight: 600'>字魂网</span><span> 🟢 1271ms</span><br/></span><a href='https://izihun.com/'>izihun.com</a><br/><span>SSL证书到期时间:2024-08-30(剩260天到期)</span></td><td>字体下载_免费字体下载_商用字体设计定制--字魂网</td></tr></table>
+<table><tr><td width='400'><span>(づ｡◕‿‿◕｡)づ</span><br/><span>Name</span></td><td><span> (●ﾟωﾟ●)</span><br/><span>Description</span></td></tr><tr><td><span><span style='font-weight: 600'>字魂网</span><span> 🟢 2678ms</span><br/></span><a href='https://izihun.com/'>izihun.com</a><br/><span>SSL证书到期时间:2024-08-30(剩259天到期)</span></td><td>字体下载_免费字体下载_商用字体设计定制--字魂网</td></tr></table>
 <a href='#目录'>🔙目录</a>
 
 
